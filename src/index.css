@@ -122,6 +122,12 @@
   transform: scale(0.4) translate(160px, 150px);
 }
 
+.card-photo img{
+  height: 2rem;
+  width: 2rem;
+  margin-top: 240px;
+  margin-left: 110px;
+}
 .des{
   color: #fefefe;
 }

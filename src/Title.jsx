@@ -1,12 +1,8 @@
-import React from 'react';
-import Description from './Description';
+import React from "react";
 
-const Title = ({ text }) => {
-  return <>  
-    <div class="card-title">DIALLO<br></br>
-   {Description}
-</div>
-</>;
+
+const Title = ({ title }) => {
+  return <div className="card-title">{title}</div>;
 };
 
 export default Title;
