@@ -11,7 +11,7 @@ class SimpleCard extends Component {
           <div className="card">
             <Image photo="https://ichef.bbci.co.uk/news/976/cpsprodpb/7614/production/_105482203__105172250_gettyimages-857294664.jpg" />
             <Title title="DIALLO" />
-            <Description description="developer" />
+            <Description description="Fullstack dev &amp; UX UI" />
             <div className="card-socials">
               <button className="card-socials-btn facebook">
                 <svg
